@@ -1,0 +1,14 @@
+#container {
+    width: 300px;
+    margin: 0 auto;
+    padding: 5px;
+    background-color: grey;
+}
+button {
+    padding: 5px;
+    margin: 5px;
+    width: 50px;
+    background-color: green;
+    font-size: 20px;
+    border: none;
+}

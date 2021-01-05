@@ -1,0 +1,14 @@
+body{
+    background-color: Gray;
+}
+#container{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    margin: 0 auto;
+}
+#container button{
+    padding: 10px;
+    color: white;
+}
